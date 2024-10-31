@@ -9,13 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^1.7.7",
     "bcryptjs": "^2.4.3",
+    "chart.js": "^4.4.6",
     "jsonwebtoken": "^9.0.2",
     "jspdf": "^2.5.2",
     "mysql2": "^3.11.3",
     "next": "15.0.2",
-    "react": "19.0.0-rc-02c0e824-20241028",
-    "react-dom": "19.0.0-rc-02c0e824-20241028"
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.3.1",
+    "segunda_serie": "file:"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -24,7 +28,7 @@
     "eslint": "^8",
     "eslint-config-next": "15.0.2",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "^3.4.14",
     "typescript": "^5"
   }
 }
