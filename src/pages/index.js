@@ -1,4 +1,3 @@
-// src/pages/index.js
 import React, { useEffect, useState } from 'react';
 import { getTipoCambio } from '../lib/api';
 
